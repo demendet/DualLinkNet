@@ -13,7 +13,8 @@
           "Microsoft.AspNetCore.SignalR.Client": "9.0.3",
           "Newtonsoft.Json": "13.0.1",
           "Serilog": "4.2.0",
-          "Microsoft.FlightSimulator.SimConnect": "12.1.0.0"
+          "Microsoft.FlightSimulator.SimConnect": "12.1.0.0",
+          "WASimCommander.WASimClient": "1.3.1.0"
         },
         "runtime": {
           "DualLInkNet.dll": {}
@@ -435,6 +436,14 @@
             "fileVersion": "0.0.0.0"
           }
         }
+      },
+      "WASimCommander.WASimClient/1.3.1.0": {
+        "runtime": {
+          "WASimCommander.WASimClient.dll": {
+            "assemblyVersion": "1.3.1.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
       }
     }
   },
@@ -739,6 +748,11 @@
       "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
     },
     "Microsoft.FlightSimulator.SimConnect/12.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WASimCommander.WASimClient/1.3.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

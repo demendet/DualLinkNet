@@ -1,0 +1,7 @@
+04-14 15:15:11.614 [INF]: Initializing WASimClient v1.3.1.0 for client 12345678 with net config ID -1
+04-14 15:15:11.688 [INF]: Connected to Simulator "SunRise" v12.1.282174.999, with SimConnect v12.1.0.0 (Server v6)
+04-14 15:15:11.707 [INF]: Connecting to WASimCommander server...
+04-14 15:15:11.743 [INF]: Connected to WASimCommander server v01030100
+04-14 15:17:04.486 [INF]: Disconnected from WASimCommander server.
+04-14 15:17:04.620 [INF]: Shutdown complete, network disconnected.
+04-14 15:17:04.725 [INF]: No network connection. Shutdown complete.
