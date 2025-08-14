@@ -1,0 +1,6 @@
+[20:28:49.788] === SYNC ANALYSIS LOG STARTED ===
+Expected host send rate: 20Hz (50ms intervals)
+Expected client interpolation rate: 30Hz (33ms intervals)
+Format: [Time] Event: Details
+
+[20:28:53.041] === LOG ENDED - Total packets: 0, Total interpolations: 0 ===
