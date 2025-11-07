@@ -1,4 +1,4 @@
-11-07 02:27:03.260 [INF]: Initializing WASimClient v1.3.2.0 for client 36820CF9 with net config ID -1
-11-07 02:27:03.313 [INF]: Connected to Simulator "SunRise" v12.2.282174.999, with SimConnect v12.2.0.0 (Server v6)
-11-07 02:27:03.315 [INF]: Connecting to WASimCommander server...
-11-07 02:27:03.354 [INF]: Connected to WASimCommander server v01030200
+11-07 02:41:33.112 [INF]: Initializing WASimClient v1.3.2.0 for client 2A2BF212 with net config ID -1
+11-07 02:41:33.165 [INF]: Connected to Simulator "SunRise" v12.2.282174.999, with SimConnect v12.2.0.0 (Server v6)
+11-07 02:41:33.167 [INF]: Connecting to WASimCommander server...
+11-07 02:41:33.242 [INF]: Connected to WASimCommander server v01030200
